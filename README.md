@@ -11,7 +11,7 @@ This project is done as part of fulfilling coursework requirement (CE9010 projec
  - Lim Shu Fang (REP/4)
  - Poh Yong Keat (REP/4)
 
-# How to use
+## How to use
 
 ## Acknowledgements
 
